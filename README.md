@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YOBAH8
+- 👋 Hi, I’m Yobah John
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any react project

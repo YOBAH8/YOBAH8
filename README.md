@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yobah John
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any react project
+- 🌱 I’m currently learning React and Next.js 
+- 💞️ I’m looking to collaborate on any react or Next.js project
 - 📫 How to reach me: email :johnyobah8@gmail.com and phone call : 0968458826 / 0964572054
 
 <!---
